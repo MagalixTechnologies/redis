@@ -1,4 +1,4 @@
-module github.com/go-redis/redis
+module github.com/MagalixTechnologies/redis
 
 require (
 	github.com/onsi/ginkgo v1.10.1
