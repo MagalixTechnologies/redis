@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	redis "github.com/go-redis/redis/v8"
+	redis "github.com/MagalixTechnologies/redis"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

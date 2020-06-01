@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis/v8"
+	"github.com/MagalixTechnologies/redis"
 )
 
 var ctx = context.Background()

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-redis/redis/v8/internal"
-	"github.com/go-redis/redis/v8/internal/pool"
-	"github.com/go-redis/redis/v8/internal/proto"
+	"github.com/MagalixTechnologies/redis/internal"
+	"github.com/MagalixTechnologies/redis/internal/pool"
+	"github.com/MagalixTechnologies/redis/internal/proto"
 )
 
 // Nil reply returned by Redis when key does not exist.

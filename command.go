@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/go-redis/redis/v8/internal"
-	"github.com/go-redis/redis/v8/internal/proto"
-	"github.com/go-redis/redis/v8/internal/util"
+	"github.com/MagalixTechnologies/redis/internal"
+	"github.com/MagalixTechnologies/redis/internal/proto"
+	"github.com/MagalixTechnologies/redis/internal/util"
 )
 
 type Cmder interface {
